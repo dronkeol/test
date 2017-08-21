@@ -43,8 +43,6 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/169.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/168.ts
 #EXTINF:-1 tvg-id="" tvg-name="Estrellas HQ" tvg-logo="" group-title="",Estrellas HQ
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1172.ts
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="http://www.chileiptv.xyz/logos/19.jpg" group-title="Internacionales",Telefe
-http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/166.ts
 #EXTINF:-1 tvg-id="CanalEstrellas.ar" tvg-name="Canal De Las Estrellas" tvg-logo="http://www.chileiptv.xyz/logos/20.jpg" group-title="Internacionales",Canal De Las Estrellas
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/165.ts
 #EXTINF:-1 tvg-id="" tvg-name="8TV" tvg-logo="http://www.chileiptv.xyz/logos/21.jpg" group-title="Internacionales",8TV
@@ -153,93 +151,93 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/473.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1140.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 [BR]" tvg-logo="http://www.chileiptv.xyz/logos/90.jpg" group-title="Deportes",Fox Sports 2 [BR]
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1141.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD [USA]" tvg-logo="" group-title="Deportes",Fox Sports 1 HD [USA]
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD [USA]" tvg-logo="http://www.chileiptv.xyz/logos/91.jpg" group-title="Deportes",Fox Sports 1 HD [USA]
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1114.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD [USA]" tvg-logo="" group-title="Deportes",Fox Sports 2 HD [USA]
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD [USA]" tvg-logo="http://www.chileiptv.xyz/logos/92.jpg" group-title="Deportes",Fox Sports 2 HD [USA]
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1115.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Florida HD [USA]" tvg-logo="" group-title="Deportes",Fox Sports Florida HD [USA]
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Florida HD [USA]" tvg-logo="http://www.chileiptv.xyz/logos/93.jpg" group-title="Deportes",Fox Sports Florida HD [USA]
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1117.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports West HD [USA]" tvg-logo="" group-title="Deportes",Fox Sports West HD [USA]
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports West HD [USA]" tvg-logo="http://www.chileiptv.xyz/logos/94.jpg" group-title="Deportes",Fox Sports West HD [USA]
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1116.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox SPORTS 506 HD [USA]" tvg-logo="" group-title="Deportes",Fox SPORTS 506 HD [USA]
+#EXTINF:-1 tvg-id="" tvg-name="Fox SPORTS 506 HD [USA]" tvg-logo="http://www.chileiptv.xyz/logos/95.jpg" group-title="Deportes",Fox SPORTS 506 HD [USA]
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1118.ts
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports" tvg-logo="https://pbs.twimg.com/profile_images/378800000247044998/e399d07d53a0ab71ad4f6a60a2d020a0.jpeg" group-title="Deportes",Directv Sports
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports" tvg-logo="http://www.chileiptv.xyz/logos/96.jpg" group-title="Deportes",Directv Sports
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/465.ts
-#EXTINF:-1 tvg-id="F1LatAm.co" tvg-name="F1 Latin America HD" tvg-logo="https://pbs.twimg.com/profile_images/565552790559141888/6Er9L0J6.png" group-title="Deportes",F1 Latin America HD
+#EXTINF:-1 tvg-id="F1LatAm.co" tvg-name="F1 Latin America HD" tvg-logo="http://www.chileiptv.xyz/logos/97.jpg" group-title="Deportes",F1 Latin America HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/485.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport HD [ES]" tvg-logo="" group-title="Deportes",Bein Sport HD [ES]
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport HD [ES]" tvg-logo="http://www.chileiptv.xyz/logos/98.jpg" group-title="Deportes",Bein Sport HD [ES]
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1155.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bein LaLiga" tvg-logo="" group-title="Deportes",Bein LaLiga
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1181.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD [USA]" tvg-logo="" group-title="Deportes",Bein Sports HD [USA]
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD [USA]" tvg-logo="http://www.chileiptv.xyz/logos/99.jpg" group-title="Deportes",Bein Sports HD [USA]
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1154.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eleven HD" tvg-logo="" group-title="Deportes",Eleven HD
+#EXTINF:-1 tvg-id="" tvg-name="Eleven HD" tvg-logo="http://www.chileiptv.xyz/logos/100.jpg" group-title="Deportes",Eleven HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1156.ts
-#EXTINF:-1 tvg-id="" tvg-name="BARCA TV" tvg-logo="" group-title="Deportes",BARCA TV
+#EXTINF:-1 tvg-id="" tvg-name="BARCA TV" tvg-logo="http://www.chileiptv.xyz/logos/101.jpg" group-title="Deportes",BARCA TV
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1139.ts
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV" tvg-logo="https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/1.png" group-title="Deportes",Real Madrid TV
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV" tvg-logo="http://www.chileiptv.xyz/logos/102.jpg" group-title="Deportes",Real Madrid TV
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/459.ts
-#EXTINF:-1 tvg-id="" tvg-name="Chelsea Tv" tvg-logo="" group-title="Deportes",Chelsea Tv
+#EXTINF:-1 tvg-id="" tvg-name="Chelsea Tv" tvg-logo="http://www.chileiptv.xyz/logos/103.jpg" group-title="Deportes",Chelsea Tv
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1146.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sevilla FC" tvg-logo="" group-title="Deportes",Sevilla FC
+#EXTINF:-1 tvg-id="" tvg-name="Sevilla FC" tvg-logo="http://www.chileiptv.xyz/logos/104.jpg" group-title="Deportes",Sevilla FC
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1147.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bayern Munchen TV" tvg-logo="" group-title="Deportes",Bayern Munchen TV
+#EXTINF:-1 tvg-id="" tvg-name="Bayern Munchen TV" tvg-logo="http://www.chileiptv.xyz/logos/105.jpg" group-title="Deportes",Bayern Munchen TV
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1148.ts
-#EXTINF:-1 tvg-id="Teletrak.cl" tvg-name="Teletrak HD" tvg-logo="https://www.poweriptv.cl/wp-content/uploads/2017/06/teletrak.png" group-title="Deportes",Teletrak HD
+#EXTINF:-1 tvg-id="Teletrak.cl" tvg-name="Teletrak HD" tvg-logo="http://www.chileiptv.xyz/logos/106.jpg" group-title="Deportes",Teletrak HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/159.ts
-#EXTINF:-1 tvg-id="" tvg-name="TYC Sport" tvg-logo="https://www.poweriptv.cl/wp-content/uploads/2017/06/imagen_tyc.jpg" group-title="Deportes",TYC Sport
+#EXTINF:-1 tvg-id="" tvg-name="TYC Sport" tvg-logo="http://www.chileiptv.xyz/logos/107.jpg" group-title="Deportes",TYC Sport
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/164.ts
-#EXTINF:-1 tvg-id="UnivisionDeportes.us" tvg-name="Univision Deportes HD" tvg-logo="" group-title="Deportes",Univision Deportes HD
+#EXTINF:-1 tvg-id="UnivisionDeportes.us" tvg-name="Univision Deportes HD" tvg-logo="http://www.chileiptv.xyz/logos/108.jpg" group-title="Deportes",Univision Deportes HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/139.ts
-#EXTINF:-1 tvg-id="" tvg-name="FORMULA 1" tvg-logo="https://www.poweriptv.cl/wp-content/uploads/2017/06/Formula-1-Logo-9.png" group-title="Deportes",FORMULA 1
+#EXTINF:-1 tvg-id="" tvg-name="FORMULA 1" tvg-logo="http://www.chileiptv.xyz/logos/109.jpg" group-title="Deportes",FORMULA 1
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/45.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA SD" tvg-logo="https://www.poweriptv.cl/wp-content/uploads/2017/06/NBA_TV.svg_.png" group-title="Deportes",NBA SD
+#EXTINF:-1 tvg-id="" tvg-name="NBA SD" tvg-logo="http://www.chileiptv.xyz/logos/110.jpg" group-title="Deportes",NBA SD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/147.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="https://www.poweriptv.cl/wp-content/uploads/2017/06/lYpCTB1.png" group-title="Deportes",NBA TV HD
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="http://www.chileiptv.xyz/logos/111.jpg" group-title="Deportes",NBA TV HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/148.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein NBA HD" tvg-logo="" group-title="Deportes",Bein NBA HD
+#EXTINF:-1 tvg-id="" tvg-name="Bein NBA HD" tvg-logo="http://www.chileiptv.xyz/logos/112.jpg" group-title="Deportes",Bein NBA HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1145.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 1 HD 1080p" tvg-logo="" group-title="Deportes",Sky Sports 1 HD 1080p
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 1 HD 1080p" tvg-logo="http://www.chileiptv.xyz/logos/113.jpg" group-title="Deportes",Sky Sports 1 HD 1080p
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1166.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 2 HD 1080p" tvg-logo="" group-title="Deportes",Sky Sports 2 HD 1080p
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 2 HD 1080p" tvg-logo="http://www.chileiptv.xyz/logos/114.jpg" group-title="Deportes",Sky Sports 2 HD 1080p
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1165.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 3 HD 1080p" tvg-logo="" group-title="Deportes",Sky Sports 3 HD 1080p
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 3 HD 1080p" tvg-logo="http://www.chileiptv.xyz/logos/115.jpg" group-title="Deportes",Sky Sports 3 HD 1080p
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1164.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 4 HD 1080p" tvg-logo="" group-title="Deportes",Sky Sports 4 HD 1080p
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 4 HD 1080p" tvg-logo="http://www.chileiptv.xyz/logos/116.jpg" group-title="Deportes",Sky Sports 4 HD 1080p
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1163.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 5 HD 1080p" tvg-logo="" group-title="Deportes",Sky Sports 5 HD 1080p
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 5 HD 1080p" tvg-logo="http://www.chileiptv.xyz/logos/117.jpg" group-title="Deportes",Sky Sports 5 HD 1080p
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1162.ts
-#EXTINF:-1 tvg-id="" tvg-name="SETANTA SPORTS EURASIA HD" tvg-logo="" group-title="Deportes",SETANTA SPORTS EURASIA HD
+#EXTINF:-1 tvg-id="" tvg-name="SETANTA SPORTS EURASIA HD" tvg-logo="http://www.chileiptv.xyz/logos/118.jpg" group-title="Deportes",SETANTA SPORTS EURASIA HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1157.ts
-#EXTINF:-1 tvg-id="" tvg-name="SETANTA SPORTS PLUS HD" tvg-logo="" group-title="Deportes",SETANTA SPORTS PLUS HD
+#EXTINF:-1 tvg-id="" tvg-name="SETANTA SPORTS PLUS HD" tvg-logo="http://www.chileiptv.xyz/logos/119.jpg" group-title="Deportes",SETANTA SPORTS PLUS HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1158.ts
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 [ES]" tvg-logo="" group-title="Deportes",EUROSPORT 1 [ES]
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 [ES]" tvg-logo="http://www.chileiptv.xyz/logos/120.jpg" group-title="Deportes",EUROSPORT 1 [ES]
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1150.ts
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 [ES]" tvg-logo="" group-title="Deportes",EUROSPORT 2 [ES]
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 [ES]" tvg-logo="http://www.chileiptv.xyz/logos/121.jpg" group-title="Deportes",EUROSPORT 2 [ES]
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1149.ts
-#EXTINF:-1 tvg-id="" tvg-name="Arenasport 1 HD SR" tvg-logo="" group-title="Deportes",Arenasport 1 HD SR
+#EXTINF:-1 tvg-id="" tvg-name="Arenasport 1 HD SR" tvg-logo="http://www.chileiptv.xyz/logos/122.jpg" group-title="Deportes",Arenasport 1 HD SR
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1119.ts
-#EXTINF:-1 tvg-id="" tvg-name="Arenasport 2 HD SR" tvg-logo="" group-title="Deportes",Arenasport 2 HD SR
+#EXTINF:-1 tvg-id="" tvg-name="Arenasport 2 HD SR" tvg-logo="http://www.chileiptv.xyz/logos/123.jpg" group-title="Deportes",Arenasport 2 HD SR
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1120.ts
-#EXTINF:-1 tvg-id="" tvg-name="Arenasport 3 HD SR" tvg-logo="" group-title="Deportes",Arenasport 3 HD SR
+#EXTINF:-1 tvg-id="" tvg-name="Arenasport 3 HD SR" tvg-logo="http://www.chileiptv.xyz/logos/124.jpg" group-title="Deportes",Arenasport 3 HD SR
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1121.ts
-#EXTINF:-1 tvg-id="" tvg-name="Arenasport 4 HD SR" tvg-logo="" group-title="Deportes",Arenasport 4 HD SR
+#EXTINF:-1 tvg-id="" tvg-name="Arenasport 4 HD SR" tvg-logo="http://www.chileiptv.xyz/logos/125.jpg" group-title="Deportes",Arenasport 4 HD SR
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1122.ts
-#EXTINF:-1 tvg-id="" tvg-name="Arenasport 5 HD SR" tvg-logo="" group-title="Deportes",Arenasport 5 HD SR
+#EXTINF:-1 tvg-id="" tvg-name="Arenasport 5 HD SR" tvg-logo="http://www.chileiptv.xyz/logos/126.jpg" group-title="Deportes",Arenasport 5 HD SR
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1123.ts
-#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports HD" tvg-logo="" group-title="Deportes",Skynet Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports HD" tvg-logo="http://www.chileiptv.xyz/logos/127.jpg" group-title="Deportes",Skynet Sports HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1124.ts
-#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports 1 SD" tvg-logo="" group-title="Deportes",Skynet Sports 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports 1 SD" tvg-logo="http://www.chileiptv.xyz/logos/128.jpg" group-title="Deportes",Skynet Sports 1 SD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1125.ts
-#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports 2 SD" tvg-logo="" group-title="Deportes",Skynet Sports 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports 2 SD" tvg-logo="http://www.chileiptv.xyz/logos/129.jpg" group-title="Deportes",Skynet Sports 2 SD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1126.ts
-#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports 3 SD" tvg-logo="" group-title="Deportes",Skynet Sports 3 SD
+#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports 3 SD" tvg-logo="http://www.chileiptv.xyz/logos/130.jpg" group-title="Deportes",Skynet Sports 3 SD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1127.ts
-#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports 4 SD" tvg-logo="" group-title="Deportes",Skynet Sports 4 SD
+#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports 4 SD" tvg-logo="http://www.chileiptv.xyz/logos/131.jpg" group-title="Deportes",Skynet Sports 4 SD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1128.ts
-#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports 5 SD" tvg-logo="" group-title="Deportes",Skynet Sports 5 SD
+#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports 5 SD" tvg-logo="http://www.chileiptv.xyz/logos/132.jpg" group-title="Deportes",Skynet Sports 5 SD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1129.ts
-#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports 6 SD" tvg-logo="" group-title="Deportes",Skynet Sports 6 SD
+#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports 6 SD" tvg-logo="http://www.chileiptv.xyz/logos/133.jpg" group-title="Deportes",Skynet Sports 6 SD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1130.ts
 #EXTINF:-1 tvg-id="" tvg-name="BT Sport 1 HD [UK]" tvg-logo="" group-title="Deportes",BT Sport 1 HD [UK]
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1152.ts
@@ -959,8 +957,6 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/395.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/851.ts
 #EXTINF:-1 tvg-id="" tvg-name="RedLight HD" tvg-logo="http://www.chileiptv.xyz/logos/450.jpg" group-title="Adultos",RedLight HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/828.ts
-#EXTINF:-1 tvg-id="" tvg-name="Juicy" tvg-logo="http://www.chileiptv.xyz/logos/450.jpg" group-title="Adultos",Juicy
-http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/396.ts
 #EXTINF:-1 tvg-id="" tvg-name="XXX: Pinko TV" tvg-logo="http://www.chileiptv.xyz/logos/452.jpg" group-title="Adultos",XXX: Pinko TV
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/842.ts
 #EXTINF:-1 tvg-id="" tvg-name="CentoXCento 1" tvg-logo="http://www.chileiptv.xyz/logos/453.jpg" group-title="Adultos",CentoXCento 1
