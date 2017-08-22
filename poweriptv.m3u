@@ -31,11 +31,11 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/480.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/418.ts
 #EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="Telemundo" tvg-logo="http://www.chileiptv.xyz/logos/13.jpg" group-title="Internacionales",Telemundo
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/416.ts
-#EXTINF:-1 tvg-id="" tvg-name="TDN" tvg-logo="http://www.chileiptv.xyz/logos/14.jpg" group-title="Internacionales",TDN
+#EXTINF:-1 tvg-id="TDN.mx" tvg-name="TDN" tvg-logo="http://www.chileiptv.xyz/logos/14.jpg" group-title="Internacionales",TDN
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/415.ts
 #EXTINF:-1 tvg-id="Atreseries.es" tvg-name="Atreseries HD" tvg-logo="http://www.chileiptv.xyz/logos/15.jpg" group-title="Internacionales",Atreseries HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/173.ts
-#EXTINF:-1 tvg-id="" tvg-name="Orbe 21" tvg-logo="http://www.chileiptv.xyz/logos/16.jpg" group-title="Internacionales",Orbe 21
+#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-name="Orbe 21" tvg-logo="http://www.chileiptv.xyz/logos/16.jpg" group-title="Internacionales",Orbe 21
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/170.ts
 #EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-name="Deutsche Welle" tvg-logo="http://www.chileiptv.xyz/logos/17.jpg" group-title="Internacionales",Deutsche Welle
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/169.ts
