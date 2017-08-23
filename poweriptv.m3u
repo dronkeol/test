@@ -3,6 +3,8 @@
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/790.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Juegos de Tronos HD" tvg-logo="http://www.chileiptv.xyz/logos/1.jpg" group-title="Canales 24/7",24/7 Juegos de Tronos HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1179.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Malcon" tvg-logo="" group-title="Canales 24/7",24/7 Malcon
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1330.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpsons" tvg-logo="http://www.chileiptv.xyz/logos/2.jpg" group-title="Canales 24/7",24/7 Los Simpsons
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/407.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpsons HD" tvg-logo="http://www.chileiptv.xyz/logos/3.jpg" group-title="Canales 24/7",24/7 Los Simpsons HD
@@ -295,7 +297,7 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/4.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/6.ts
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CineCanal" tvg-logo="http://www.chileiptv.xyz/logos/159.jpg" group-title="Películas y Series",CineCanal
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/20.ts
-#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CineMax" tvg-logo="http://www.chileiptv.xyz/logos/160.jpg" group-title="Películas y Series",CineMax
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CineMax HD" tvg-logo="http://www.chileiptv.xyz/logos/160.jpg" group-title="Películas y Series",CineMax HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/22.ts
 #EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central" tvg-logo="http://www.chileiptv.xyz/logos/161.jpg" group-title="Películas y Series",Comedy Central
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/136.ts
@@ -414,9 +416,9 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/463.ts
 #EXTINF:-1 tvg-id="Mega.cl" tvg-name="CL: Mega HD" tvg-logo="http://www.chileiptv.xyz/logos/209.jpg" group-title="Nacionales",CL: Mega HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/112.ts
 #EXTINF:-1 tvg-id="Chilevision.cl" tvg-name="CL: CHV" tvg-logo="http://www.chileiptv.xyz/logos/210.jpg" group-title="Nacionales",CL: CHV
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/111.ts
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-name="CL: Canal 13 HD" tvg-logo="http://www.chileiptv.xyz/logos/211.jpg" group-title="Nacionales",CL: Canal 13 HD
-http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/135.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: T13 Móvil" tvg-logo="http://www.chileiptv.xyz/logos/212.jpg" group-title="Nacionales",CL: T13 Móvil
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/458.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: Carolina Tv" tvg-logo="http://www.chileiptv.xyz/logos/213.jpg" group-title="Nacionales",CL: Carolina Tv
