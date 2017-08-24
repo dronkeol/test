@@ -193,8 +193,6 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/164.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/139.ts
 #EXTINF:-1 tvg-id="" tvg-name="FORMULA 1" tvg-logo="http://www.chileiptv.xyz/logos/109.jpg" group-title="Deportes",FORMULA 1
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/45.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA SD" tvg-logo="http://www.chileiptv.xyz/logos/110.jpg" group-title="Deportes",NBA SD
-http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/147.ts
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="http://www.chileiptv.xyz/logos/111.jpg" group-title="Deportes",NBA TV HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/148.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bein NBA HD" tvg-logo="http://www.chileiptv.xyz/logos/112.jpg" group-title="Deportes",Bein NBA HD
@@ -527,8 +525,6 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/542.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/541.ts
 #EXTINF:-1 tvg-id="" tvg-name="PE: CTC TV" tvg-logo="http://www.chileiptv.xyz/logos/262.jpg" group-title="Peru",PE: CTC TV
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/540.ts
-#EXTINF:-1 tvg-id="" tvg-name="PE: Latina TV" tvg-logo="http://www.chileiptv.xyz/logos/263.jpg" group-title="Peru",PE: Latina TV
-http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/539.ts
 #EXTINF:-1 tvg-id="" tvg-name="PE: Ovacion" tvg-logo="http://www.chileiptv.xyz/logos/264.jpg" group-title="Peru",PE: Ovacion
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/529.ts
 #EXTINF:-1 tvg-id="" tvg-name="PE: RBC TV" tvg-logo="http://www.chileiptv.xyz/logos/265.jpg" group-title="Peru",PE: RBC TV
