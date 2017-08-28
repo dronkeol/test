@@ -915,6 +915,8 @@ http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/388.ts
 #EXTINF:-1 tvg-id="GalaTV9Nacional.mx" tvg-name="Gala TV" tvg-logo="http://www.chileiptv.xyz/logos/45.jpg" group-title="Internacionales",Gala TV
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/406.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vibee" tvg-logo="" group-title="Música",Vibee
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1342.ts
 #EXTINF:-1 tvg-id="" tvg-name="►►● MUSICA ●◄◄" tvg-logo="" group-title="Música",►►● MUSICA ●◄◄
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/808.ts
 #EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="Bandamax" tvg-logo="http://www.chileiptv.xyz/logos/197.jpg" group-title="Música",Bandamax
@@ -933,6 +935,28 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/73.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/107.ts
 #EXTINF:-1 tvg-id="VH1.mx" tvg-name="Vh1 Classics" tvg-logo="http://www.chileiptv.xyz/logos/204.jpg" group-title="Música",Vh1 Classics
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/108.ts
+#EXTINF:-1 tvg-id="" tvg-name="CITY TV" tvg-logo="" group-title="Música",CITY TV
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1331.ts
+#EXTINF:-1 tvg-id="" tvg-name="Captal Musica" tvg-logo="" group-title="Música",Captal Musica
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1334.ts
+#EXTINF:-1 tvg-id="" tvg-name="Heart" tvg-logo="" group-title="Música",Heart
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1335.ts
+#EXTINF:-1 tvg-id="" tvg-name="COLOSAL TV" tvg-logo="" group-title="Música",COLOSAL TV
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1332.ts
+#EXTINF:-1 tvg-id="" tvg-name="HitTV" tvg-logo="" group-title="Música",HitTV
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1336.ts
+#EXTINF:-1 tvg-id="" tvg-name="M2O" tvg-logo="" group-title="Música",M2O
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1337.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC Play" tvg-logo="" group-title="Música",MC Play
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1338.ts
+#EXTINF:-1 tvg-id="" tvg-name="Melody" tvg-logo="" group-title="Música",Melody
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1339.ts
+#EXTINF:-1 tvg-id="" tvg-name="Reto" tvg-logo="" group-title="Música",Reto
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1340.ts
+#EXTINF:-1 tvg-id="" tvg-name="ROMA TV HD" tvg-logo="" group-title="Música",ROMA TV HD
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1333.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tigo" tvg-logo="" group-title="Música",Tigo
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1341.ts
 #EXTINF:-1 tvg-id="" tvg-name="►►● ADULTO +18 ●◄◄" tvg-logo="" group-title="Adultos",►►● ADULTO +18 ●◄◄
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/800.ts
 #EXTINF:-1 tvg-id="" tvg-name="PLAYBOY" tvg-logo="http://www.chileiptv.xyz/logos/441.jpg" group-title="Adultos",PLAYBOY
@@ -957,6 +981,8 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/851.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/828.ts
 #EXTINF:-1 tvg-id="" tvg-name="XXX: Pinko TV" tvg-logo="http://www.chileiptv.xyz/logos/452.jpg" group-title="Adultos",XXX: Pinko TV
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/842.ts
+#EXTINF:-1 tvg-id="" tvg-name="Viegin" tvg-logo="" group-title="Música",Viegin
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1343.ts
 #EXTINF:-1 tvg-id="" tvg-name="CentoXCento 1" tvg-logo="http://www.chileiptv.xyz/logos/453.jpg" group-title="Adultos",CentoXCento 1
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/857.ts
 #EXTINF:-1 tvg-id="" tvg-name="CentoXCento 2" tvg-logo="http://www.chileiptv.xyz/logos/454.jpg" group-title="Adultos",CentoXCento 2
