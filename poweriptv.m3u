@@ -881,7 +881,7 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/328.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/325.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: TELECINCO" tvg-logo="http://www.chileiptv.xyz/logos/407.jpg" group-title="España",ES: TELECINCO
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/324.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: SYFY" tvg-logo="http://www.chileiptv.xyz/logos/408.jpg" group-title="España",ES: SYFY
+#EXTINF:-1 tvg-id="" tvg-name="ES: SYFY HD" tvg-logo="http://www.chileiptv.xyz/logos/408.jpg" group-title="España",ES: SYFY HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/326.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES 2" tvg-logo="http://www.chileiptv.xyz/logos/409.jpg" group-title="España",ES: MOVISTAR DEPORTES 2
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/342.ts
