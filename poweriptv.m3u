@@ -805,9 +805,9 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/371.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/370.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: Antena 3" tvg-logo="http://www.chileiptv.xyz/logos/368.jpg" group-title="España",ES: Antena 3
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/387.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: AXN" tvg-logo="http://www.chileiptv.xyz/logos/369.jpg" group-title="España",ES: AXN
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN HD" tvg-logo="http://www.chileiptv.xyz/logos/369.jpg" group-title="España",ES: AXN HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/369.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: AXN WHITE" tvg-logo="http://www.chileiptv.xyz/logos/370.jpg" group-title="España",ES: AXN WHITE
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN WHITE HD" tvg-logo="http://www.chileiptv.xyz/logos/370.jpg" group-title="España",ES: AXN WHITE HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/368.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: BOING" tvg-logo="http://www.chileiptv.xyz/logos/372.jpg" group-title="España",ES: BOING
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/367.ts
@@ -839,9 +839,9 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/351.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/350.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: LA 2" tvg-logo="http://www.chileiptv.xyz/logos/386.jpg" group-title="España",ES: LA 2
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/348.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: La Sexta" tvg-logo="http://www.chileiptv.xyz/logos/387.jpg" group-title="España",ES: La Sexta
+#EXTINF:-1 tvg-id="" tvg-name="ES: La Sexta HD" tvg-logo="http://www.chileiptv.xyz/logos/387.jpg" group-title="España",ES: La Sexta HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/378.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LaLigaTV BAR" tvg-logo="http://www.chileiptv.xyz/logos/388.jpg" group-title="España",ES: LaLigaTV BAR
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLigaTV BAR HD" tvg-logo="http://www.chileiptv.xyz/logos/388.jpg" group-title="España",ES: LaLigaTV BAR HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/379.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M20" tvg-logo="http://www.chileiptv.xyz/logos/389.jpg" group-title="España",ES: M20
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/347.ts
@@ -851,7 +851,7 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/345.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/381.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DCINE" tvg-logo="http://www.chileiptv.xyz/logos/392.jpg" group-title="España",ES: MOVISTAR DCINE
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/343.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ESTRENOS" tvg-logo="http://www.chileiptv.xyz/logos/393.jpg" group-title="España",ES: MOVISTAR ESTRENOS
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL ESTRENOS" tvg-logo="http://www.chileiptv.xyz/logos/393.jpg" group-title="España",ES: CANAL ESTRENOS
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/341.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR FUTBOL HD" tvg-logo="http://www.chileiptv.xyz/logos/394.jpg" group-title="España",ES: MOVISTAR FUTBOL HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/383.ts
@@ -859,15 +859,15 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/383.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/376.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR SERIES" tvg-logo="http://www.chileiptv.xyz/logos/396.jpg" group-title="España",ES: MOVISTAR SERIES
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/338.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR SERIES XTRA" tvg-logo="http://www.chileiptv.xyz/logos/397.jpg" group-title="España",ES: MOVISTAR SERIES XTRA
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SERIES XTRA" tvg-logo="http://www.chileiptv.xyz/logos/397.jpg" group-title="España",ES: CANAL SERIES XTRA
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/337.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: NAT GEO" tvg-logo="http://www.chileiptv.xyz/logos/398.jpg" group-title="España",ES: NAT GEO
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/335.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: NAT GEO WILD" tvg-logo="http://www.chileiptv.xyz/logos/399.jpg" group-title="España",ES: NAT GEO WILD
+#EXTINF:-1 tvg-id="" tvg-name="ES: NAT GEO WILD HD" tvg-logo="http://www.chileiptv.xyz/logos/399.jpg" group-title="España",ES: NAT GEO WILD HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/334.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: NEOX" tvg-logo="http://www.chileiptv.xyz/logos/400.jpg" group-title="España",ES: NEOX
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/333.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: NICKELODEON" tvg-logo="http://www.chileiptv.xyz/logos/401.jpg" group-title="España",ES: NICKELODEON
+#EXTINF:-1 tvg-id="" tvg-name="ES: NICKELODEON HD" tvg-logo="http://www.chileiptv.xyz/logos/401.jpg" group-title="España",ES: NICKELODEON HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/332.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: NON STOP PEOPLE" tvg-logo="http://www.chileiptv.xyz/logos/402.jpg" group-title="España",ES: NON STOP PEOPLE
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/331.ts
@@ -879,7 +879,7 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/329.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/328.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: TCM" tvg-logo="http://www.chileiptv.xyz/logos/406.jpg" group-title="España",ES: TCM
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/325.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: TELECINCO" tvg-logo="http://www.chileiptv.xyz/logos/407.jpg" group-title="España",ES: TELECINCO
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELECINCO HD" tvg-logo="http://www.chileiptv.xyz/logos/407.jpg" group-title="España",ES: TELECINCO HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/324.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: SYFY HD" tvg-logo="http://www.chileiptv.xyz/logos/408.jpg" group-title="España",ES: SYFY HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/326.ts
@@ -891,7 +891,7 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/323.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/322.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: TOROSTV HD" tvg-logo="http://www.chileiptv.xyz/logos/412.jpg" group-title="España",ES: TOROSTV HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/380.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY CHANNEL" tvg-logo="http://www.chileiptv.xyz/logos/413.jpg" group-title="España",ES: DISNEY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY CHANNEL HD" tvg-logo="http://www.chileiptv.xyz/logos/413.jpg" group-title="España",ES: DISNEY CHANNEL HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/359.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY JUNIOR" tvg-logo="http://www.chileiptv.xyz/logos/414.jpg" group-title="España",ES: DISNEY JUNIOR
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/358.ts
