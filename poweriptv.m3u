@@ -11,7 +11,7 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/407.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/117.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 South Park" tvg-logo="http://www.chileiptv.xyz/logos/4.jpg" group-title="Canales 24/7",24/7 South Park
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/967.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super" tvg-logo="http://www.chileiptv.xyz/logos/5.jpg" group-title="Canales 24/7",24/7 Dragon Ball Super
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super HD" tvg-logo="http://www.chileiptv.xyz/logos/5.jpg" group-title="Canales 24/7",24/7 Dragon Ball Super HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/115.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Peliculas HD" tvg-logo="http://www.chileiptv.xyz/logos/6.jpg" group-title="Canales 24/7",24/7 Peliculas HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/116.ts
