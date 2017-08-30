@@ -957,14 +957,6 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1340.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1333.ts
 #EXTINF:-1 tvg-id="" tvg-name="Tigo" tvg-logo="" group-title="Música",Tigo
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1341.ts
-#EXTINF:-1 tvg-id="" tvg-name="DJing Animation" tvg-logo="" group-title="Música",DJing Animation
-http://www.djing.com/tv/animation.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DJing Classics" tvg-logo="" group-title="Música",DJing Classics
-http://www.djing.com/tv/classics.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DJing Ibiza" tvg-logo="" group-title="Música",DJing Ibiza
-http://www.djing.com/tv/ibiza.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DJing Underground" tvg-logo="" group-title="Música",DJing Underground
-http://www.djing.com/tv/underground.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="►►● ADULTO +18 ●◄◄" tvg-logo="" group-title="Adultos",►►● ADULTO +18 ●◄◄
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/800.ts
 #EXTINF:-1 tvg-id="" tvg-name="PLAYBOY" tvg-logo="http://www.chileiptv.xyz/logos/441.jpg" group-title="Adultos",PLAYBOY
