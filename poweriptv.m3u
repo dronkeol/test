@@ -99,6 +99,8 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/445.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/114.ts
 #EXTINF:-1 tvg-id="CDFPremium.cl" tvg-name="CDF HD" tvg-logo="http://www.chileiptv.xyz/logos/63.jpg" group-title="Deportes",CDF HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/863.ts
+#EXTINF:-1 tvg-id="" tvg-name="CDF HD 2" tvg-logo="" group-title="Deportes",CDF HD 2
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1350.ts
 #EXTINF:-1 tvg-id="" tvg-name="Estadio CDF HD" tvg-logo="http://www.chileiptv.xyz/logos/64.jpg" group-title="Deportes",Estadio CDF HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/444.ts
 #EXTINF:-1 tvg-id="UFCNetwork.mx" tvg-name="UFC HD" tvg-logo="http://www.chileiptv.xyz/logos/65.jpg" group-title="Deportes",UFC HD
