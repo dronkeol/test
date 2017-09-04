@@ -147,10 +147,10 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/479.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/476.ts
 #EXTINF:-1 tvg-id="FoxSports1.cl" tvg-name="Fox Sports 1 HD [Chile]" tvg-logo="http://www.chileiptv.xyz/logos/86.jpg" group-title="Deportes",Fox Sports 1 HD [Chile]
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/474.ts
-#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="Fox Sports 3 HD [Chile]" tvg-logo="http://www.chileiptv.xyz/logos/88.jpg" group-title="Deportes",Fox Sports 3 HD [Chile]
-http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/475.ts
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2 HD [Chile]" tvg-logo="http://www.chileiptv.xyz/logos/87.jpg" group-title="Deportes",Fox Sports 2 HD [Chile]
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/473.ts
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="Fox Sports 3 HD [Chile]" tvg-logo="http://www.chileiptv.xyz/logos/88.jpg" group-title="Deportes",Fox Sports 3 HD [Chile]
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/475.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOX Sports 1 [BR]" tvg-logo="http://www.chileiptv.xyz/logos/89.jpg" group-title="Deportes",FOX Sports 1 [BR]
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1140.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 [BR]" tvg-logo="http://www.chileiptv.xyz/logos/90.jpg" group-title="Deportes",Fox Sports 2 [BR]
