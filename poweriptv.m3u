@@ -1060,7 +1060,7 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/293.ts
 #EXTINF:-1 tvg-id="" tvg-name="Imagina (88.1 FM)" tvg-logo="http://www.chileiptv.xyz/logos/489.jpg" group-title="Radios",Imagina (88.1 FM)
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/301.ts
 #EXTINF:-1 tvg-id="" tvg-name="Infinita (100.1 FM)" tvg-logo="http://www.chileiptv.xyz/logos/490.jpg" group-title="Radios",Infinita (100.1 FM)
-http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/219.ts
+http://tunein.digitalproserver.com/infinitabb.aac
 #EXTINF:-1 tvg-id="" tvg-name="La Clave (92.9 FM)" tvg-logo="http://www.chileiptv.xyz/logos/491.jpg" group-title="Radios",La Clave (92.9 FM)
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/267.ts
 #EXTINF:-1 tvg-id="" tvg-name="Los 40 Principales (101.7 FM)" tvg-logo="http://www.chileiptv.xyz/logos/492.jpg" group-title="Radios",Los 40 Principales (101.7 FM)
