@@ -191,6 +191,8 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1148.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/159.ts
 #EXTINF:-1 tvg-id="" tvg-name="TYC Sport" tvg-logo="http://www.chileiptv.xyz/logos/107.jpg" group-title="Deportes",TYC Sport
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/164.ts
+#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="TyC Sports HD" tvg-logo="" group-title="Deportes",TyC Sports HD
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1351.ts
 #EXTINF:-1 tvg-id="UnivisionDeportes.us" tvg-name="Univision Deportes HD" tvg-logo="http://www.chileiptv.xyz/logos/108.jpg" group-title="Deportes",Univision Deportes HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/139.ts
 #EXTINF:-1 tvg-id="" tvg-name="FORMULA 1" tvg-logo="http://www.chileiptv.xyz/logos/109.jpg" group-title="Deportes",FORMULA 1
@@ -409,9 +411,9 @@ http://localhost/
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/137.ts
 #EXTINF:-1 tvg-id="UCVTV.cl" tvg-name="CL: UCV HD" tvg-logo="http://www.chileiptv.xyz/logos/206.jpg" group-title="Nacionales",CL: UCV HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/160.ts
-#EXTINF:-1 tvg-id="TVN.cl" tvg-name="CL: TVN HD" tvg-logo="http://www.chileiptv.xyz/logos/207.jpg" group-title="Nacionales",CL: TVN HD
+#EXTINF:-1 tvg-id="TVN.cl" tvg-name="CL: TVN HD" tvg-logo="https://image.ibb.co/bLydmv/tvnhdlogo.png" group-title="Nacionales",CL: TVN HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/113.ts
-#EXTINF:-1 tvg-id="" tvg-name="CL: TV Chile" tvg-logo="http://www.chileiptv.xyz/logos/208.jpg" group-title="Nacionales",CL: TV Chile
+#EXTINF:-1 tvg-id="" tvg-name="CL: TV Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVChile_logo_2016.png" group-title="Nacionales",CL: TV Chile
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/463.ts
 #EXTINF:-1 tvg-id="Mega.cl" tvg-name="CL: Mega HD" tvg-logo="http://www.chileiptv.xyz/logos/209.jpg" group-title="Nacionales",CL: Mega HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/112.ts
