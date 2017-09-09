@@ -441,8 +441,6 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/878.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/876.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: FM Hot TV HD" tvg-logo="http://www.chileiptv.xyz/logos/222.jpg" group-title="Nacionales",CL: FM Hot TV HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/865.ts
-#EXTINF:-1 tvg-id="" tvg-name="CL: Gracia TV" tvg-logo="http://www.chileiptv.xyz/logos/223.jpg" group-title="Nacionales",CL: Gracia TV
-http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/866.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: Inet TV" tvg-logo="http://www.chileiptv.xyz/logos/224.jpg" group-title="Nacionales",CL: Inet TV
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/880.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: Niu TV" tvg-logo="http://www.chileiptv.xyz/logos/225.jpg" group-title="Nacionales",CL: Niu TV
@@ -655,8 +653,6 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/747.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/748.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR: TV Pocos" tvg-logo="http://www.chileiptv.xyz/logos/325.jpg" group-title="Brasil",BR: TV Pocos
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/746.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: TV Ponta Negra" tvg-logo="http://www.chileiptv.xyz/logos/326.jpg" group-title="Brasil",BR: TV Ponta Negra
-http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/745.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR: TV Urbana" tvg-logo="http://www.chileiptv.xyz/logos/327.jpg" group-title="Brasil",BR: TV Urbana
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/743.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR: TVE Bahia" tvg-logo="http://www.chileiptv.xyz/logos/328.jpg" group-title="Brasil",BR: TVE Bahia
@@ -665,8 +661,6 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/741.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/740.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR: TVN Brasil" tvg-logo="http://www.chileiptv.xyz/logos/330.jpg" group-title="Brasil",BR: TVN Brasil
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/739.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: TVT" tvg-logo="http://www.chileiptv.xyz/logos/331.jpg" group-title="Brasil",BR: TVT
-http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/738.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR: UCSTV" tvg-logo="" group-title="Brasil",BR: UCSTV
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/737.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR: Via Morena" tvg-logo="" group-title="Brasil",BR: Via Morena
@@ -941,8 +935,6 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1331.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1334.ts
 #EXTINF:-1 tvg-id="" tvg-name="Heart" tvg-logo="" group-title="Música",Heart
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1335.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLOSAL TV" tvg-logo="" group-title="Música",COLOSAL TV
-http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1332.ts
 #EXTINF:-1 tvg-id="" tvg-name="HitTV" tvg-logo="" group-title="Música",HitTV
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1336.ts
 #EXTINF:-1 tvg-id="" tvg-name="M2O" tvg-logo="" group-title="Música",M2O
