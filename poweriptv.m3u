@@ -105,6 +105,8 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1350.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/444.ts
 #EXTINF:-1 tvg-id="UFCNetwork.mx" tvg-name="UFC HD" tvg-logo="http://www.chileiptv.xyz/logos/65.jpg" group-title="Deportes",UFC HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/417.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight pass" tvg-logo="" group-title="Deportes",UFC Fight pass
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1352.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://www.chileiptv.xyz/logos/66.jpg" group-title="Deportes",ESPN
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/41.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN +" tvg-logo="http://www.chileiptv.xyz/logos/67.jpg" group-title="Deportes",ESPN +
