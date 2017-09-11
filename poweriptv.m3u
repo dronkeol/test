@@ -5,12 +5,18 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/790.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1179.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Malcon" tvg-logo="" group-title="Canales 24/7",24/7 Malcon
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1330.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Morandé con compañía" tvg-logo="" group-title="Canales 24/7",24/7 Morandé con compañía
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1354.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpsons" tvg-logo="http://www.chileiptv.xyz/logos/2.jpg" group-title="Canales 24/7",24/7 Los Simpsons
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/407.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpsons HD" tvg-logo="http://www.chileiptv.xyz/logos/3.jpg" group-title="Canales 24/7",24/7 Los Simpsons HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/117.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 South Park" tvg-logo="http://www.chileiptv.xyz/logos/4.jpg" group-title="Canales 24/7",24/7 South Park
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/967.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z" tvg-logo="" group-title="Canales 24/7",24/7 Dragon Ball Z
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1356.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT" tvg-logo="" group-title="Canales 24/7",24/7 Dragon Ball GT
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1355.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super HD" tvg-logo="http://www.chileiptv.xyz/logos/5.jpg" group-title="Canales 24/7",24/7 Dragon Ball Super HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/115.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Peliculas HD" tvg-logo="http://www.chileiptv.xyz/logos/6.jpg" group-title="Canales 24/7",24/7 Peliculas HD
@@ -411,16 +417,26 @@ http://localhost/
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/137.ts
 #EXTINF:-1 tvg-id="UCVTV.cl" tvg-name="CL: UCV HD" tvg-logo="http://www.chileiptv.xyz/logos/206.jpg" group-title="Nacionales",CL: UCV HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/160.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: UCV HD [OP2]" tvg-logo="" group-title="Nacionales",CL: UCV HD [OP2]
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1357.ts
 #EXTINF:-1 tvg-id="TVN.cl" tvg-name="CL: TVN HD" tvg-logo="https://image.ibb.co/bLydmv/tvnhdlogo.png" group-title="Nacionales",CL: TVN HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/113.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: TVN HD [OP2]" tvg-logo="" group-title="Nacionales",CL: TVN HD [OP2]
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1358.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: TV Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVChile_logo_2016.png" group-title="Nacionales",CL: TV Chile
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/463.ts
 #EXTINF:-1 tvg-id="Mega.cl" tvg-name="CL: Mega HD" tvg-logo="http://www.chileiptv.xyz/logos/209.jpg" group-title="Nacionales",CL: Mega HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/112.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: MEGA HD [OP2]" tvg-logo="" group-title="Nacionales",CL: MEGA HD [OP2]
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1359.ts
 #EXTINF:-1 tvg-id="Chilevision.cl" tvg-name="CL: CHV" tvg-logo="http://www.chileiptv.xyz/logos/210.jpg" group-title="Nacionales",CL: CHV
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/111.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: CHV HD [OP2]" tvg-logo="" group-title="Nacionales",CL: CHV HD [OP2]
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1360.ts
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-name="CL: Canal 13 HD" tvg-logo="http://www.chileiptv.xyz/logos/211.jpg" group-title="Nacionales",CL: Canal 13 HD
 http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?yo.ac=true&unique=1479113608
+#EXTINF:-1 tvg-id="" tvg-name="CL: CANAL 13 HD [OP2]" tvg-logo="" group-title="Nacionales",CL: CANAL 13 HD [OP2]
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1361.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: T13 Móvil" tvg-logo="http://www.chileiptv.xyz/logos/212.jpg" group-title="Nacionales",CL: T13 Móvil
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/458.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: Carolina Tv" tvg-logo="http://www.chileiptv.xyz/logos/213.jpg" group-title="Nacionales",CL: Carolina Tv
@@ -593,8 +609,6 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/788.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/786.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR: Band" tvg-logo="http://www.chileiptv.xyz/logos/297.jpg" group-title="Brasil",BR: Band
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/785.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: BH News TV" tvg-logo="http://www.chileiptv.xyz/logos/298.jpg" group-title="Brasil",BR: BH News TV
-http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/784.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR: Canal do Boi" tvg-logo="http://www.chileiptv.xyz/logos/299.jpg" group-title="Brasil",BR: Canal do Boi
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/783.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR: Canal Rural" tvg-logo="http://www.chileiptv.xyz/logos/300.jpg" group-title="Brasil",BR: Canal Rural
@@ -617,8 +631,6 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/768.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/767.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR: Retro Cartoon" tvg-logo="" group-title="Brasil",BR: Retro Cartoon
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/770.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: SBT Sao Paulo" tvg-logo="http://www.chileiptv.xyz/logos/309.jpg" group-title="Brasil",BR: SBT Sao Paulo
-http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/766.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR: Shoptime" tvg-logo="http://www.chileiptv.xyz/logos/310.jpg" group-title="Brasil",BR: Shoptime
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/734.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR: TV Antares" tvg-logo="http://www.chileiptv.xyz/logos/312.jpg" group-title="Brasil",BR: TV Antares
