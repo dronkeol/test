@@ -541,8 +541,6 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/533.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/531.ts
 #EXTINF:-1 tvg-id="" tvg-name="PE: TVS Satelital" tvg-logo="http://www.chileiptv.xyz/logos/270.jpg" group-title="Peru",PE: TVS Satelital
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/532.ts
-#EXTINF:-1 tvg-id="" tvg-name="PE: Uno TV" tvg-logo="http://www.chileiptv.xyz/logos/271.jpg" group-title="Peru",PE: Uno TV
-http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/530.ts
 #EXTINF:-1 tvg-id="" tvg-name="PE: Willax TV" tvg-logo="http://www.chileiptv.xyz/logos/272.jpg" group-title="Peru",PE: Willax TV
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/528.ts
 #EXTINF:-1 tvg-id="" tvg-name="►►● BRASIL ●◄◄" tvg-logo="" group-title="Brasil",►►● BRASIL ●◄◄
@@ -569,8 +567,6 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/515.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/514.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR: Multishow" tvg-logo="http://www.chileiptv.xyz/logos/282.jpg" group-title="Brasil",BR: Multishow
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/513.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: Prime Box Brasil" tvg-logo="http://www.chileiptv.xyz/logos/283.jpg" group-title="Brasil",BR: Prime Box Brasil
-http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/506.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR: Sport TV" tvg-logo="http://www.chileiptv.xyz/logos/284.jpg" group-title="Brasil",BR: Sport TV
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/505.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR: Sport TV2" tvg-logo="http://www.chileiptv.xyz/logos/285.jpg" group-title="Brasil",BR: Sport TV2
