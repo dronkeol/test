@@ -434,7 +434,7 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/111.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: CHV HD [OP2]" tvg-logo="" group-title="Nacionales",CL: CHV HD [OP2]
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1360.ts
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-name="CL: Canal 13 HD" tvg-logo="http://www.chileiptv.xyz/logos/211.jpg" group-title="Nacionales",CL: Canal 13 HD
-http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?yo.ac=true&unique=1479113608
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/135.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: CANAL 13 HD [OP2]" tvg-logo="" group-title="Nacionales",CL: CANAL 13 HD [OP2]
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1361.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: T13 Móvil" tvg-logo="http://www.chileiptv.xyz/logos/212.jpg" group-title="Nacionales",CL: T13 Móvil
