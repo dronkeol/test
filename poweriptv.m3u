@@ -3,9 +3,9 @@
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/790.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Juegos de Tronos HD" tvg-logo="http://www.chileiptv.xyz/logos/1.jpg" group-title="Canales 24/7",24/7 Juegos de Tronos HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1179.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Malcon" tvg-logo="" group-title="Canales 24/7",24/7 Malcon
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Malcolm" tvg-logo="https://image.ibb.co/fMDEjF/malcolm.png" group-title="Canales 24/7",24/7 Malcolm
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1330.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Morandé con compañía" tvg-logo="" group-title="Canales 24/7",24/7 Morandé con compañía
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Morandé con compañía" tvg-logo="https://image.ibb.co/hdgBWv/nNQzicRr.jpg" group-title="Canales 24/7",24/7 Morandé con compañía
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1354.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpsons" tvg-logo="http://www.chileiptv.xyz/logos/2.jpg" group-title="Canales 24/7",24/7 Los Simpsons
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/407.ts
@@ -13,9 +13,9 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/407.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/117.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 South Park" tvg-logo="http://www.chileiptv.xyz/logos/4.jpg" group-title="Canales 24/7",24/7 South Park
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/967.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z" tvg-logo="" group-title="Canales 24/7",24/7 Dragon Ball Z
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z" tvg-logo="https://image.ibb.co/ikNqPF/dbz.png" group-title="Canales 24/7",24/7 Dragon Ball Z
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1356.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT" tvg-logo="" group-title="Canales 24/7",24/7 Dragon Ball GT
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT" tvg-logo="https://image.ibb.co/iuckrv/dbgt.png" group-title="Canales 24/7",24/7 Dragon Ball GT
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1355.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super HD" tvg-logo="http://www.chileiptv.xyz/logos/5.jpg" group-title="Canales 24/7",24/7 Dragon Ball Super HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/115.ts
@@ -75,7 +75,7 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/46.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/48.ts
 #EXTINF:-1 tvg-id="" tvg-name="Glitz*" tvg-logo="http://www.chileiptv.xyz/logos/31.jpg" group-title="Internacionales",Glitz*
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/62.ts
-#EXTINF:-1 tvg-id="HolaTv.ar" tvg-name="HOLA! TV" tvg-logo="https://www.poweriptv.cl/wp-content/uploads/2017/06/hola-tv-refuerza-su-presencia-en-colombia-a-traves-de-telefonica.png" group-title="Internacionales",HOLA! TV
+#EXTINF:-1 tvg-id="HolaTv.ar" tvg-name="HOLA! TV" tvg-logo="http://www.chileiptv.xyz/logos/32.jpg" group-title="Internacionales",HOLA! TV
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/67.ts
 #EXTINF:-1 tvg-id="" tvg-name="I-Sat" tvg-logo="http://www.chileiptv.xyz/logos/33.jpg" group-title="Internacionales",I-Sat
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/68.ts
@@ -199,7 +199,7 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1148.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/159.ts
 #EXTINF:-1 tvg-id="" tvg-name="TYC Sport" tvg-logo="http://www.chileiptv.xyz/logos/107.jpg" group-title="Deportes",TYC Sport
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/164.ts
-#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="TyC Sports HD" tvg-logo="" group-title="Deportes",TyC Sports HD
+#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="TyC Sports HD" tvg-logo="http://www.chileiptv.xyz/logos/107.jpg" group-title="Deportes",TyC Sports HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1351.ts
 #EXTINF:-1 tvg-id="UnivisionDeportes.us" tvg-name="Univision Deportes HD" tvg-logo="http://www.chileiptv.xyz/logos/108.jpg" group-title="Deportes",Univision Deportes HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/139.ts
