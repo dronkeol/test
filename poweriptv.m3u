@@ -175,6 +175,10 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1116.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1118.ts
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports" tvg-logo="http://www.chileiptv.xyz/logos/96.jpg" group-title="Deportes",Directv Sports
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/465.ts
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sport + HD" tvg-logo="" group-title="",Directv Sport + HD
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1369.ts
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sport 2 HD" tvg-logo="" group-title="",Directv Sport 2 HD
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1370.ts
 #EXTINF:-1 tvg-id="F1LatAm.co" tvg-name="F1 Latin America HD" tvg-logo="http://www.chileiptv.xyz/logos/97.jpg" group-title="Deportes",F1 Latin America HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/485.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport HD [ES]" tvg-logo="http://www.chileiptv.xyz/logos/98.jpg" group-title="Deportes",Bein Sport HD [ES]
@@ -337,14 +341,20 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/64.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/63.ts
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="http://www.chileiptv.xyz/logos/176.jpg" group-title="Películas y Series",HBO
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/119.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="Películas y Series",HBO HD
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1380.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO Mexico" tvg-logo="http://www.chileiptv.xyz/logos/175.jpg" group-title="Películas y Series",HBO Mexico
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1182.ts
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="http://www.chileiptv.xyz/logos/178.jpg" group-title="Películas y Series",HBO 2
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/316.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="" group-title="Películas y Series",HBO 2 HD
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1379.ts
 #EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO PLUS" tvg-logo="http://www.chileiptv.xyz/logos/179.jpg" group-title="Películas y Series",HBO PLUS
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/120.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://www.chileiptv.xyz/logos/180.jpg" group-title="Películas y Series",HBO Signature
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/409.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD" tvg-logo="" group-title="",HBO Signature HD
+http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1378.ts
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="http://www.chileiptv.xyz/logos/181.jpg" group-title="Películas y Series",HBO Family
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/315.ts
 #EXTINF:-1 tvg-id="MaxPrime.mx" tvg-name="MAX PRIME" tvg-logo="http://www.chileiptv.xyz/logos/182.jpg" group-title="Películas y Series",MAX PRIME
