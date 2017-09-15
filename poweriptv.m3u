@@ -193,8 +193,6 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/459.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1146.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sevilla FC" tvg-logo="http://www.chileiptv.xyz/logos/104.jpg" group-title="Deportes",Sevilla FC
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1147.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bayern Munchen TV" tvg-logo="http://www.chileiptv.xyz/logos/105.jpg" group-title="Deportes",Bayern Munchen TV
-http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/1148.ts
 #EXTINF:-1 tvg-id="Teletrak.cl" tvg-name="Teletrak HD" tvg-logo="http://www.chileiptv.xyz/logos/106.jpg" group-title="Deportes",Teletrak HD
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/159.ts
 #EXTINF:-1 tvg-id="" tvg-name="TYC Sport" tvg-logo="http://www.chileiptv.xyz/logos/107.jpg" group-title="Deportes",TYC Sport
@@ -905,8 +903,6 @@ http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/320.ts
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/9.ts
 #EXTINF:-1 tvg-id="" tvg-name="Canal11" tvg-logo="" group-title="",Canal11
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/16.ts
-#EXTINF:-1 tvg-id="" tvg-name="Miami TV" tvg-logo="http://www.chileiptv.xyz/logos/440.jpg" group-title="USA",Miami TV
-http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/158.ts
 #EXTINF:-1 tvg-id="" tvg-name="Trendy" tvg-logo="" group-title="",Trendy
 http://server.poweriptv.cl:8000/live/b1CXurMp/0n3E1C1sgv/100.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sun Channel" tvg-logo="https://www.poweriptv.cl/wp-content/uploads/2017/06/ZR2rNMkD.jpg" group-title="Venezuela",Sun Channel
